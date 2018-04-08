@@ -1,4 +1,27 @@
 <a name="2.1.0"></a>
+# [2.1.0](https://github.com/oclif/semantic-release-dev/compare/v2.0.0...v2.1.0) (2018-04-08)
+
+
+### Bug Fixes
+
+* add org-global ([2d5692f](https://github.com/oclif/semantic-release-dev/commit/2d5692f))
+* build from master ([64864f4](https://github.com/oclif/semantic-release-dev/commit/64864f4))
+* bump deps ([449be3c](https://github.com/oclif/semantic-release-dev/commit/449be3c))
+* cleanup circle scripts ([bd42ee6](https://github.com/oclif/semantic-release-dev/commit/bd42ee6))
+* fixed script order ([09663a9](https://github.com/oclif/semantic-release-dev/commit/09663a9))
+* remove prepublish ([524c56e](https://github.com/oclif/semantic-release-dev/commit/524c56e))
+* remove prepublish ([57a4ccf](https://github.com/oclif/semantic-release-dev/commit/57a4ccf))
+* repo name ([06bc95d](https://github.com/oclif/semantic-release-dev/commit/06bc95d))
+* run postpublish ([0e4b79a](https://github.com/oclif/semantic-release-dev/commit/0e4b79a))
+* testing release ([2317f0c](https://github.com/oclif/semantic-release-dev/commit/2317f0c))
+* testing release ([9aa0740](https://github.com/oclif/semantic-release-dev/commit/9aa0740))
+
+
+### Features
+
+* added more scripts ([bd9f8de](https://github.com/oclif/semantic-release-dev/commit/bd9f8de))
+
+<a name="2.1.0"></a>
 # [2.1.0](https://github.com/oclif/semantic-release/compare/v2.0.1...v2.1.0) (2018-04-08)
 
 
