@@ -1,3 +1,11 @@
+<a name="2.1.10"></a>
+## [2.1.10](https://github.com/oclif/semantic-release-dev/compare/v2.1.9...v2.1.10) (2018-04-08)
+
+
+### Bug Fixes
+
+* pjson space 2 ([a4308ba](https://github.com/oclif/semantic-release-dev/commit/a4308ba))
+
 <a name="2.1.9"></a>
 ## [2.1.9](https://github.com/oclif/semantic-release-dev/compare/v2.1.8...v2.1.9) (2018-04-08)
 
