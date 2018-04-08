@@ -1,3 +1,11 @@
+<a name="2.1.2"></a>
+## [2.1.2](https://github.com/oclif/semantic-release-dev/compare/v2.1.1...v2.1.2) (2018-04-08)
+
+
+### Bug Fixes
+
+* testing release ([c23671f](https://github.com/oclif/semantic-release-dev/commit/c23671f))
+
 <a name="2.1.1"></a>
 ## [2.1.1](https://github.com/oclif/semantic-release-dev/compare/v2.1.0...v2.1.1) (2018-04-08)
 
