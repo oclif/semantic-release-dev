@@ -9,14 +9,12 @@ module.exports = {
     '@semantic-release/npm',
     '@semantic-release/git',
     '@semantic-release/github',
+    script('preversion'),
   ],
   prepare: [
-    {path: './scripts/update_version'},
-    script('preversion'),
     script('prepublishOnly'),
     script('prepack'),
     '@semantic-release/changelog',
-    {path: './scripts/update_version'},
     script('version'),
     '@semantic-release/npm',
     {
