@@ -3,7 +3,7 @@ function run(pluginConfig, options) {
   const pjson = require(path.join(process.cwd(), 'package.json'))
   const exec = require('./exec')
   process.env.OCLIF_NEXT_VERSION = options.nextRelease.version
-  if (pjson.scripts[pluginConfig.script]) exec.shell(pluginConfig.script)
+  if (pjson.scripts[pluginConfig.script]) exec(pluginConfig.script)
 }
 
 exports.prepare = run
