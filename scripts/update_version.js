@@ -5,5 +5,5 @@ exports.prepare = (_, options) => {
   console.dir(pjson)
   pjson.version = options.nextRelease.version
   fs.outputJSONSync('package.json', pjson)
-  console.log(fs.readFileSync('package.json'))
+  console.log(fs.readFileSync('package.json', 'utf8'))
 }
