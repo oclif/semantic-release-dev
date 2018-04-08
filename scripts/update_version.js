@@ -4,6 +4,6 @@ exports.prepare = (_, options) => {
   const pjson = require(path.join(process.cwd(), 'package.json'))
   console.dir(pjson)
   pjson.version = options.nextRelease.version
-  fs.outputJSONSync('package.json', pjson)
+  fs.outputJSONSync('package.json', pjson, {space: 2})
   console.log(fs.readFileSync('package.json', 'utf8'))
 }
