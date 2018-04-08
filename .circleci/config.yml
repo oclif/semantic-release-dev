@@ -25,7 +25,7 @@ jobs:
 
 workflows:
   version: 2
-  "@oclif/semantic-release":
+  "@oclif/semantic-release-dev":
     jobs:
       - release:
           context: org-global
