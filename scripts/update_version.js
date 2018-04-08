@@ -4,6 +4,6 @@ exports.prepare = (_, options) => {
   const pjson = require(path.join(process.cwd(), 'package.json'))
   pjson.version = options.nextRelease.version
   console.dir(pjson)
-  fs.writeJSONSync(pjson, 'package.json')
+  fs.writeJSONSync('package.json', pjson)
   console.dir(require(path.join(process.cwd(), 'package.json')))
 }
