@@ -14,6 +14,7 @@ module.exports = {
     script('prepublishOnly'),
     script('prepack'),
     '@semantic-release/changelog',
+    {path: './scripts/update_version.js'},
     script('version'),
     '@semantic-release/npm',
     {
