@@ -1,3 +1,14 @@
+<a name="2.1.3"></a>
+## [2.1.3](https://github.com/oclif/semantic-release-dev/compare/v2.1.2...v2.1.3) (2018-04-08)
+
+
+### Bug Fixes
+
+* add npm-run-path ([e17b9bd](https://github.com/oclif/semantic-release-dev/commit/e17b9bd))
+* call scripts directly ([ab6ee10](https://github.com/oclif/semantic-release-dev/commit/ab6ee10))
+* scripts ([64ef95c](https://github.com/oclif/semantic-release-dev/commit/64ef95c))
+* scripts ([9db5a0c](https://github.com/oclif/semantic-release-dev/commit/9db5a0c))
+
 <a name="2.1.2"></a>
 ## [2.1.2](https://github.com/oclif/semantic-release-dev/compare/v2.1.1...v2.1.2) (2018-04-08)
 
