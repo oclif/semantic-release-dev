@@ -1,3 +1,15 @@
+<a name="2.1.6"></a>
+## [2.1.6](https://github.com/oclif/semantic-release-dev/compare/v2.1.5...v2.1.6) (2018-04-08)
+
+
+### Bug Fixes
+
+* added verifyConditions ([6113b8d](https://github.com/oclif/semantic-release-dev/commit/6113b8d))
+* added verifyConditions ([5fce1a5](https://github.com/oclif/semantic-release-dev/commit/5fce1a5))
+* debugging ([1e83dc0](https://github.com/oclif/semantic-release-dev/commit/1e83dc0))
+* new config ([8780de5](https://github.com/oclif/semantic-release-dev/commit/8780de5))
+* remove preversion for now ([bb1599b](https://github.com/oclif/semantic-release-dev/commit/bb1599b))
+
 <a name="2.1.5"></a>
 ## [2.1.5](https://github.com/oclif/semantic-release-dev/compare/v2.1.4...v2.1.5) (2018-04-08)
 
