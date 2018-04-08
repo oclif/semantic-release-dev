@@ -10,4 +10,3 @@ function run(pluginConfig, options) {
 
 exports.prepare = run
 exports.publish = run
-exports.verifyConditions = run
