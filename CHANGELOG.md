@@ -1,3 +1,13 @@
+<a name="2.1.5"></a>
+## [2.1.5](https://github.com/oclif/semantic-release-dev/compare/v2.1.4...v2.1.5) (2018-04-08)
+
+
+### Bug Fixes
+
+* fix version set ([fdca9c0](https://github.com/oclif/semantic-release-dev/commit/fdca9c0))
+* ignore console for now ([41eb487](https://github.com/oclif/semantic-release-dev/commit/41eb487))
+* set version before version script ([b17bbee](https://github.com/oclif/semantic-release-dev/commit/b17bbee))
+
 <a name="2.1.4"></a>
 ## [2.1.4](https://github.com/oclif/semantic-release-dev/compare/v2.1.3...v2.1.4) (2018-04-08)
 
