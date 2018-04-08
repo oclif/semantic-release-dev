@@ -1,3 +1,11 @@
+<a name="2.1.4"></a>
+## [2.1.4](https://github.com/oclif/semantic-release-dev/compare/v2.1.3...v2.1.4) (2018-04-08)
+
+
+### Bug Fixes
+
+* fixed circle workflow name ([9143141](https://github.com/oclif/semantic-release-dev/commit/9143141))
+
 <a name="2.1.3"></a>
 ## [2.1.3](https://github.com/oclif/semantic-release-dev/compare/v2.1.2...v2.1.3) (2018-04-08)
 
