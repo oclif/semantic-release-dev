@@ -7,11 +7,11 @@
   "dependencies": {
     "@semantic-release/changelog": "^2.0.1",
     "@semantic-release/exec": "^2.2.3",
-    "@semantic-release/git": "^4.0.1",
+    "@semantic-release/git": "^5.0.0",
     "@semantic-release/github": "^4.2.11",
     "@semantic-release/npm": "^3.2.4",
     "execa": "^0.10.0",
-    "fs-extra": "^5.0.0",
+    "fs-extra": "^6.0.1",
     "npm-run-path": "^2.0.2",
     "semantic-release": "^15.1.5"
   },
