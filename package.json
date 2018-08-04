@@ -9,7 +9,7 @@
     "@semantic-release/exec": "^2.2.3",
     "@semantic-release/git": "^4.0.1",
     "@semantic-release/github": "^4.2.11",
-    "@semantic-release/npm": "^3.2.4",
+    "@semantic-release/npm": "^5.0.1",
     "execa": "^0.10.0",
     "fs-extra": "^5.0.0",
     "npm-run-path": "^2.0.2",
