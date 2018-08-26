@@ -6,7 +6,7 @@
   "bugs": "https://github.com/oclif/semantic-release/issues",
   "dependencies": {
     "@semantic-release/changelog": "^2.0.1",
-    "@semantic-release/exec": "^2.2.3",
+    "@semantic-release/exec": "^3.1.2",
     "@semantic-release/git": "^4.0.1",
     "@semantic-release/github": "^4.2.11",
     "@semantic-release/npm": "^3.2.4",
